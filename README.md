@@ -90,4 +90,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - https://www.udemy.com/aws-certified-solutions-architect-associate/learn/v4/
 - https://aws.amazon.com/architecture/
 - https://aws.amazon.com/whitepapers/
+- https://github.com/gruntwork-io/terragrunt-infrastructure-modules-example
 
